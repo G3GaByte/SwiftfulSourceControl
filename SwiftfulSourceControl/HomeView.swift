@@ -14,6 +14,8 @@
  BUG IN PRODUCTION:
  [Patch] Description of patch
  
+ RELEASE:
+ [release] Description of release
  
  BUG NOT IN PRODUCTION:
  [Bug] Description of the bug
@@ -21,8 +23,7 @@
  MUNDANE TASKS:
  [Clean] Description of Changes
  
- RELEASE:
- [release] Description of release
+
  */
 
 
