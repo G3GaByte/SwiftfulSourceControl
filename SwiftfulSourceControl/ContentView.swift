@@ -20,6 +20,10 @@ struct ContentView: View {
                 
             }
             .background(Color.green)
+            .padding()
+            Button("Subscribe"){
+                
+            }
         }
         
         .padding()
