@@ -6,6 +6,15 @@
 //
 
 /*
+ 
+ Clone = Copying the repo locally
+ Commit = save a checkpoint on our current branch
+ Staging = prepare changes for a commit
+ Stash = save personal changes for later
+ Push = Send local commits to remote repo
+ Pull = Fetch remote commmits to local repo 
+ 
+ 
  COMMIT MESSAGES
  
  NEW FEATURE:
@@ -39,6 +48,8 @@ struct HomeView: View {
             Text("Screen 2!")
             Text("Screen 2!")
             Text("Screen 3!")
+            
+            //change example
         }
     }
 }
