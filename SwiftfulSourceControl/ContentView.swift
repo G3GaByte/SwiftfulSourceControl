@@ -24,6 +24,10 @@ struct ContentView: View {
                 
             }
             
+            Button("Click me≈!"){
+                
+            }
+            
             Rectangle()
             Rectangle()
             
