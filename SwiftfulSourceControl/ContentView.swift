@@ -15,12 +15,16 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Seach Error")
             
-            Button("Click me"){
+            Button("Swiftful!!!!"){
                 
             }
             .background(Color.green)
             
             Button("Subscribe!"){
+                
+            }
+            
+            Button("Click me≈!"){
                 
             }
             
