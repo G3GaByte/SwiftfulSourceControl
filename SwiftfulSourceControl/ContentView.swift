@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
+            Image(systemName: "house.fill")
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
@@ -20,7 +20,7 @@ struct ContentView: View {
                 
             }
             .background(Color.green)
-            .padding()
+
             Button("Subscribe Now"){
                 
             }
