@@ -48,7 +48,7 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         VStack {
-            Text("hello")
+            Text("hello World")
             Text("Screen 2!")
             
             //change example
