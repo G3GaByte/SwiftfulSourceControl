@@ -50,9 +50,7 @@ struct HomeView: View {
             
             //change example
         }
-        .onAppear(){
-            // send analytics
-        }
+       
     }
 }
 
