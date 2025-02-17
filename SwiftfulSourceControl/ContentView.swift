@@ -1,4 +1,3 @@
-//
 //  ContentView.swift
 //  SwiftfulSourceControl
 //
@@ -10,11 +9,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house.fill")
+            Image(systemName: "magnifyingglass")
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinking!")
+            Text("Seach Error")
             
             Button("Click me"){
                 
@@ -31,7 +30,6 @@ struct ContentView: View {
         }
         
         .padding()
-        
     }
     
 }
