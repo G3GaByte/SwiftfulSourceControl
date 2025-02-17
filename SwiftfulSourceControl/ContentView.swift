@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Seach Error")
             
-            Button("Swiftful THINKING!!!!!"){
+            Button("Swiftful THINKINGz!!!!!!"){
                 
             }
             .background(Color.green)
