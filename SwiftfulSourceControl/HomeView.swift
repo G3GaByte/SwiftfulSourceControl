@@ -14,16 +14,16 @@
  Push               = Send local commits to remote repo
  Pull               = Fetch remote commmits to local repo
  Merge              = Joining two different branches
- Rebase             = Moving one branch on top of another branch
+ Rebase             = Moving one branch on top of another                       branch
  
  Cherry picking     = Duplicating (copying) one commit from one
- branch to another
+                      branch to another
  
  Pull Request (PR)  = Request to merge branch
  
  PR Merge           = Merge all commits
  
- PR Squash & Merge  = Squash all commits into one and then merge one commit
+ PR Squash & Merge  = Squash all commits into one and then                      merge one commit
  
  Protecting Branches
  CODEOWNERS
@@ -39,7 +39,7 @@
  COMMIT MESSAGES
  
  NEW FEATURE:
- [Feature] Descrption of the feature
+ [Feature] Description of the feature
  
  BUG IN PRODUCTION:
  [Patch] Description of patch
