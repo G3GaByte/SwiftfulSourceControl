@@ -1,0 +1,9 @@
+# This is a comment in the CODEOWNERS file.
+# The user G3GaByte will be the owner of all files in the repository.
+
+*   @G3GaByte
+
+# The user G3GaByte is the owner of the entire repository
+*   @G3GaByte
+
+
