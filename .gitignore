@@ -1,0 +1,81 @@
+# Xcode
+######################
+
+
+# Build generated
+DerivedData/
+build/
+*.hmap
+
+# Swift Package Manager
+######################
+# Swift Package Manager (SPM) generated files
+/.build/
+/Package.pins
+/Package.resolved
+
+# CocoaPods
+######################
+# CocoaPods dependencies
+Pods/
+
+# Carthage
+######################
+# Carthage binary dependencies
+Carthage/Build/
+
+# Xcode Server
+######################
+# Xcode Server integration files
+xcschemes/
+
+# Other
+######################
+# App-specific data
+*.swp
+*.lock
+.idea/
+.vscode/
+
+# xcarchive (generated when creating archives for distribution)
+*.xcarchive
+
+# Other temporary files
+*.moved-aside
+*.orig
+*.backup
+*.swp
+
+# OS-specific temporary files
+##############################
+
+# macOS Finder
+.DS_Store
+
+# macOS AppleDouble
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Icon?
+
+# Spotlight files
+.Spotlight-V100
+.Trashes
+
+# macOS system files
+._*
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+
+# xcarchive (generated when creating archives for distribution)
+*.xcarchive
+
+# Other temporary files
+*.moved-aside
+*.orig
+*.backup
+*.swp
